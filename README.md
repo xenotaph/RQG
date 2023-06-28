@@ -1,2 +1,2 @@
-# rqg-charsheet
+# RQG
 Testing ChatGPT coding capabilities
