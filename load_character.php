@@ -20,8 +20,10 @@ $characters = $result->fetch_all(MYSQLI_ASSOC);
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Load Character</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css">
+    <title>Load Character</title>
+
 </head>
 <body>
     <div class="container">

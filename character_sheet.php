@@ -1,3 +1,10 @@
+<?php
+// Check if readonly variable is set
+$readonly = isset($readonly) ? $readonly : '';
+?>
+
+<!-- HTML code for character sheet -->
+
 <div class="container">
     <div class="row">
         <!-- First main column -->

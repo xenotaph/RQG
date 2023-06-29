@@ -1,0 +1,16 @@
+/* Hide the arrows */
+input[type="number"]::-webkit-inner-spin-button, 
+input[type="number"]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+#birthYear {
+  width: 60px; /* Adjust as needed */
+}
+
+#age {
+  width: 40px; /* Adjust as needed */
+}
