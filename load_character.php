@@ -21,7 +21,7 @@ $characters = $result->fetch_all(MYSQLI_ASSOC);
 <html>
 <head>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="styles.css">
     <title>Load Character</title>
 
 </head>
